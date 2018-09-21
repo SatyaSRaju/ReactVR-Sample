@@ -32,7 +32,7 @@ export default class PenHolder extends React.Component {
             style = {{
                 transform : [
                     {translate: [5,0.70, -4]},
-                    {scale: 0.00125},
+                    {scale: 0.0125},
                     {rotateX: -90 }
                 ]
             }}
@@ -45,7 +45,7 @@ export default class PenHolder extends React.Component {
             style = {{
                 transform : [
                     {translate: [10,0.60, -3.75]},
-                    {scale: 0.00150},
+                    {scale: 0.01150},
                     {rotateX: -90 },
                     {rotateZ: -270}
                     

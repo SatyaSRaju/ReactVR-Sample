@@ -61,7 +61,7 @@ export default class App extends React.Component {
                     textAlignVertical: 'center',
                     transform: [{translate: [-1, 2, -6]}],
                 }}>
-            My Office
+            Satya's Office
             </Text>   
         </VrButton>
         
